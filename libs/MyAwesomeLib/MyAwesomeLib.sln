@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAwesomeLib-iOS", "src\MyAwesomeLib-iOS.csproj", "{AB3C567D-CBE4-47CA-9B82-54B9685346C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAwesomeLib-Droid", "src\MyAwesomeLib-Droid.csproj", "{4B7F2A4E-DFBB-4374-93A4-F2076BA21C8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAwesomeLib-PCL", "src\MyAwesomeLib-PCL.csproj", "{0A15A861-6D5F-415B-8A78-9EED83646304}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB3C567D-CBE4-47CA-9B82-54B9685346C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB3C567D-CBE4-47CA-9B82-54B9685346C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB3C567D-CBE4-47CA-9B82-54B9685346C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB3C567D-CBE4-47CA-9B82-54B9685346C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B7F2A4E-DFBB-4374-93A4-F2076BA21C8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B7F2A4E-DFBB-4374-93A4-F2076BA21C8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B7F2A4E-DFBB-4374-93A4-F2076BA21C8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B7F2A4E-DFBB-4374-93A4-F2076BA21C8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A15A861-6D5F-415B-8A78-9EED83646304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A15A861-6D5F-415B-8A78-9EED83646304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A15A861-6D5F-415B-8A78-9EED83646304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A15A861-6D5F-415B-8A78-9EED83646304}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
